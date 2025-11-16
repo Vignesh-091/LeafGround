@@ -1,0 +1,31 @@
+{
+  "credentials": {
+    "username": "DemoSalesManager",
+    "password": "crmsfa"
+  },
+  "leadDetails": {
+    "companyName": "OpenAI Solutions",
+    "firstName": "Vignesh",
+    "lastName": "Kumar"
+  },
+  "dropdowns": {
+    "source": {
+      "label": "Direct Mail"
+    },
+    "marketingCampaign": {
+      "value": "9001" 
+    },
+    "industry": {
+      "index": 3
+    },
+    "preferredCurrency": {
+      "value": "INR"
+    },
+    "country": {
+      "value": "IND"
+    },
+    "state": {
+      "value": "IN-TN"
+    }
+  }
+}
